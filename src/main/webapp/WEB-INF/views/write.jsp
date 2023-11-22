@@ -14,7 +14,7 @@
 		<div class="align-center">
 			게시판에 글을 등록했습니다.<br>
 			<button onclick="location.href='list.do'">목록</button>
-	</div>
+		</div>
 	</div>
 </div>
 </body>
