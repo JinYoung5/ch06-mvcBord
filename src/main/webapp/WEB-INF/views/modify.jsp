@@ -9,7 +9,7 @@
 </c:if>
 <c:if test="${!check}">
 	<script>
-		alert('비밀번호 불일치');
+		alert('비밀번호 불일치');r
 		history.go(-1);
 	</script>
 </c:if>
